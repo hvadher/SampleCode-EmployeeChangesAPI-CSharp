@@ -15,4 +15,7 @@
   <ItemGroup>
     <Compile Remove="Model\AccountModel.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="README.MD" />
+  </ItemGroup>
 </Project>
